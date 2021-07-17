@@ -1,0 +1,23 @@
+.fileexp-div{
+    padding-left:0.5%;
+    background: #0d1b2a;
+    color:white;
+    font-family: monospace;
+    width:9.5%;
+    border:1px solid black;
+}
+.fileexp{
+    display:flex;
+    flex-direction: column;
+    width:100%;
+    margin-top:3%;
+}
+.file{
+    text-align: left;
+    padding-left:2%;
+    margin:1% 0.5%;
+    border:1px solid black;
+    font-size: 1.3em;
+    background: none;
+    color:white;
+}

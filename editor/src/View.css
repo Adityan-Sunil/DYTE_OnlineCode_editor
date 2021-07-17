@@ -1,0 +1,14 @@
+#result-div{
+    width:40%;  
+    border: 1px solid black;
+    margin-left:0.1%;
+    height:100%;
+}
+
+#result{
+    width:99.5%;
+    height:95.5%;
+}
+iframe{
+    border:0;
+}
