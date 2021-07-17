@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/DYTE_OnlineCode_editor/static/css/main.c78b85f7.chunk.css",
-    "main.js": "/DYTE_OnlineCode_editor/static/js/main.b2cc05ed.chunk.js",
-    "main.js.map": "/DYTE_OnlineCode_editor/static/js/main.b2cc05ed.chunk.js.map",
-    "runtime-main.js": "/DYTE_OnlineCode_editor/static/js/runtime-main.bcdc5f00.js",
-    "runtime-main.js.map": "/DYTE_OnlineCode_editor/static/js/runtime-main.bcdc5f00.js.map",
-    "static/css/2.a06c15e3.chunk.css": "/DYTE_OnlineCode_editor/static/css/2.a06c15e3.chunk.css",
-    "static/js/2.07fb34e5.chunk.js": "/DYTE_OnlineCode_editor/static/js/2.07fb34e5.chunk.js",
-    "static/js/2.07fb34e5.chunk.js.map": "/DYTE_OnlineCode_editor/static/js/2.07fb34e5.chunk.js.map",
-    "index.html": "/DYTE_OnlineCode_editor/index.html",
-    "static/css/2.a06c15e3.chunk.css.map": "/DYTE_OnlineCode_editor/static/css/2.a06c15e3.chunk.css.map",
-    "static/css/main.c78b85f7.chunk.css.map": "/DYTE_OnlineCode_editor/static/css/main.c78b85f7.chunk.css.map",
-    "static/js/2.07fb34e5.chunk.js.LICENSE.txt": "/DYTE_OnlineCode_editor/static/js/2.07fb34e5.chunk.js.LICENSE.txt"
+    "main.css": "/DYTE_OnlineCode_editor/editor/static/css/main.c78b85f7.chunk.css",
+    "main.js": "/DYTE_OnlineCode_editor/editor/static/js/main.b2cc05ed.chunk.js",
+    "main.js.map": "/DYTE_OnlineCode_editor/editor/static/js/main.b2cc05ed.chunk.js.map",
+    "runtime-main.js": "/DYTE_OnlineCode_editor/editor/static/js/runtime-main.3dd93bb0.js",
+    "runtime-main.js.map": "/DYTE_OnlineCode_editor/editor/static/js/runtime-main.3dd93bb0.js.map",
+    "static/css/2.a06c15e3.chunk.css": "/DYTE_OnlineCode_editor/editor/static/css/2.a06c15e3.chunk.css",
+    "static/js/2.07fb34e5.chunk.js": "/DYTE_OnlineCode_editor/editor/static/js/2.07fb34e5.chunk.js",
+    "static/js/2.07fb34e5.chunk.js.map": "/DYTE_OnlineCode_editor/editor/static/js/2.07fb34e5.chunk.js.map",
+    "index.html": "/DYTE_OnlineCode_editor/editor/index.html",
+    "static/css/2.a06c15e3.chunk.css.map": "/DYTE_OnlineCode_editor/editor/static/css/2.a06c15e3.chunk.css.map",
+    "static/css/main.c78b85f7.chunk.css.map": "/DYTE_OnlineCode_editor/editor/static/css/main.c78b85f7.chunk.css.map",
+    "static/js/2.07fb34e5.chunk.js.LICENSE.txt": "/DYTE_OnlineCode_editor/editor/static/js/2.07fb34e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bcdc5f00.js",
+    "static/js/runtime-main.3dd93bb0.js",
     "static/css/2.a06c15e3.chunk.css",
     "static/js/2.07fb34e5.chunk.js",
     "static/css/main.c78b85f7.chunk.css",
